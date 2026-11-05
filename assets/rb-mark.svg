@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="96" viewBox="0 0 560 96" role="img" aria-label="Rodrigo Bonini — developer logo">
+<rect width="560" height="96" rx="16" fill="#0d1117"/>
+<rect x="2" y="2" width="556" height="92" rx="14" fill="none" stroke="#34304e" stroke-width="2"/>
+<path d="M32 27H58L68 37V59L58 69H32L22 59V37Z" fill="none" stroke="#9d86ec" stroke-width="3"/>
+<text x="45" y="54" text-anchor="middle" font-family="monospace" font-size="23" font-weight="bold" fill="#e2dcff">RB</text>
+<path d="M81 48H109M109 48L118 39H143M109 48L118 57H143" fill="none" stroke="#69cce0" stroke-width="2"/>
+<circle cx="143" cy="39" r="3" fill="#69cce0"/><circle cx="143" cy="57" r="3" fill="#69cce0"/>
+<text x="166" y="44" font-family="monospace" font-size="21" font-weight="bold" fill="#e8e3f9">RODRIGO BONINI</text>
+<text x="167" y="65" font-family="monospace" font-size="13" fill="#8c9db7">BACKEND  /  AUTOMATION  /  AI</text>
+</svg>
