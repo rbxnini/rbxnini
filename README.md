@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/rb-mark.svg" width="460" alt="Monograma minimalista RB — Rodrigo Bonini" />
-
 **Software Development · Backend · Automation · AI**
 
 </div>
